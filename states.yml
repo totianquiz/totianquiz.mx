@@ -1,0 +1,67 @@
+---
+# Estados de México (ISO 3166-2:MX). ofn-install copia este archivo a
+# db/default/spree/states.yml en cada deploy (variable l10n_repo).
+- name: Aguascalientes
+  abbr: AGU
+- name: Baja California
+  abbr: BCN
+- name: Baja California Sur
+  abbr: BCS
+- name: Campeche
+  abbr: CAM
+- name: Chiapas
+  abbr: CHP
+- name: Chihuahua
+  abbr: CHH
+- name: Ciudad de México
+  abbr: CMX
+- name: Coahuila
+  abbr: COA
+- name: Colima
+  abbr: COL
+- name: Durango
+  abbr: DUR
+- name: Estado de México
+  abbr: MEX
+- name: Guanajuato
+  abbr: GUA
+- name: Guerrero
+  abbr: GRO
+- name: Hidalgo
+  abbr: HID
+- name: Jalisco
+  abbr: JAL
+- name: Michoacán
+  abbr: MIC
+- name: Morelos
+  abbr: MOR
+- name: Nayarit
+  abbr: NAY
+- name: Nuevo León
+  abbr: NLE
+- name: Oaxaca
+  abbr: OAX
+- name: Puebla
+  abbr: PUE
+- name: Querétaro
+  abbr: QUE
+- name: Quintana Roo
+  abbr: ROO
+- name: San Luis Potosí
+  abbr: SLP
+- name: Sinaloa
+  abbr: SIN
+- name: Sonora
+  abbr: SON
+- name: Tabasco
+  abbr: TAB
+- name: Tamaulipas
+  abbr: TAM
+- name: Tlaxcala
+  abbr: TLA
+- name: Veracruz
+  abbr: VER
+- name: Yucatán
+  abbr: YUC
+- name: Zacatecas
+  abbr: ZAC
